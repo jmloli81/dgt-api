@@ -1,0 +1,9 @@
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.DbContext\bin\Debug\netcoreapp2.2\DGTAPI.DbContext.deps.json
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.DbContext\bin\Debug\netcoreapp2.2\DGTAPI.DbContext.dll
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.DbContext\bin\Debug\netcoreapp2.2\DGTAPI.DbContext.pdb
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.DbContext\obj\Debug\netcoreapp2.2\DGTAPI.DbContext.csprojAssemblyReference.cache
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.DbContext\obj\Debug\netcoreapp2.2\DGTAPI.DbContext.csproj.CoreCompileInputs.cache
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.DbContext\obj\Debug\netcoreapp2.2\DGTAPI.DbContext.AssemblyInfoInputs.cache
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.DbContext\obj\Debug\netcoreapp2.2\DGTAPI.DbContext.AssemblyInfo.cs
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.DbContext\obj\Debug\netcoreapp2.2\DGTAPI.DbContext.dll
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.DbContext\obj\Debug\netcoreapp2.2\DGTAPI.DbContext.pdb

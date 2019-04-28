@@ -1,0 +1,9 @@
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.Models\bin\Debug\netcoreapp2.2\DGTAPI.Models.deps.json
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.Models\bin\Debug\netcoreapp2.2\DGTAPI.Models.dll
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.Models\bin\Debug\netcoreapp2.2\DGTAPI.Models.pdb
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.Models\obj\Debug\netcoreapp2.2\DGTAPI.Models.csprojAssemblyReference.cache
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.Models\obj\Debug\netcoreapp2.2\DGTAPI.Models.csproj.CoreCompileInputs.cache
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.Models\obj\Debug\netcoreapp2.2\DGTAPI.Models.AssemblyInfoInputs.cache
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.Models\obj\Debug\netcoreapp2.2\DGTAPI.Models.AssemblyInfo.cs
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.Models\obj\Debug\netcoreapp2.2\DGTAPI.Models.dll
+C:\SISTEMAS\DGT\DGTAPI\DGTAPI.Models\obj\Debug\netcoreapp2.2\DGTAPI.Models.pdb

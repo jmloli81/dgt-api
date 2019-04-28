@@ -1,0 +1,14 @@
+C:\SISTEMAS\dgt\DGTAPI\DGTAPI\bin\Debug\netcoreapp2.2\DGTAPI.deps.json
+C:\SISTEMAS\dgt\DGTAPI\DGTAPI\bin\Debug\netcoreapp2.2\DGTAPI.runtimeconfig.json
+C:\SISTEMAS\dgt\DGTAPI\DGTAPI\bin\Debug\netcoreapp2.2\DGTAPI.runtimeconfig.dev.json
+C:\SISTEMAS\dgt\DGTAPI\DGTAPI\bin\Debug\netcoreapp2.2\DGTAPI.dll
+C:\SISTEMAS\dgt\DGTAPI\DGTAPI\bin\Debug\netcoreapp2.2\DGTAPI.pdb
+C:\SISTEMAS\dgt\DGTAPI\DGTAPI\obj\Debug\netcoreapp2.2\DGTAPI.csproj.CoreCompileInputs.cache
+C:\SISTEMAS\dgt\DGTAPI\DGTAPI\obj\Debug\netcoreapp2.2\DGTAPI.RazorAssemblyInfo.cache
+C:\SISTEMAS\dgt\DGTAPI\DGTAPI\obj\Debug\netcoreapp2.2\DGTAPI.RazorAssemblyInfo.cs
+C:\SISTEMAS\dgt\DGTAPI\DGTAPI\obj\Debug\netcoreapp2.2\DGTAPI.AssemblyInfoInputs.cache
+C:\SISTEMAS\dgt\DGTAPI\DGTAPI\obj\Debug\netcoreapp2.2\DGTAPI.AssemblyInfo.cs
+C:\SISTEMAS\dgt\DGTAPI\DGTAPI\obj\Debug\netcoreapp2.2\DGTAPI.RazorTargetAssemblyInfo.cache
+C:\SISTEMAS\dgt\DGTAPI\DGTAPI\obj\Debug\netcoreapp2.2\DGTAPI.dll
+C:\SISTEMAS\dgt\DGTAPI\DGTAPI\obj\Debug\netcoreapp2.2\DGTAPI.pdb
+C:\SISTEMAS\dgt\DGTAPI\DGTAPI\obj\Debug\netcoreapp2.2\DGTAPI.csprojAssemblyReference.cache
